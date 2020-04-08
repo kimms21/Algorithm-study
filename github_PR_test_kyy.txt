@@ -1,3 +1,0 @@
-github PR test by kyy
-
-=> after close my PR, rewrite this text file and PR again.
